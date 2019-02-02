@@ -1,0 +1,49 @@
+
+\data\
+ngram 1=14
+ngram 2=25
+
+\1-grams:
+-0.6532125	</s>
+-99	<s>	-0.2722303
+-1.255273	a	-0.3210688
+-1.556303	am	-0.3901498
+-1.255273	computer	-0.2736441
+-1.255273	deep	-0.2566108
+-1.556303	from	-0.3901498
+-1.255273	human	0.1007113
+-0.9542425	i	-0.9658808
+-1.255273	is	-0.3638208
+-1.079181	learning	0.03456439
+-1.556303	learns	-0.4027389
+-1.079181	like	-0.01286025
+-0.8573325	machine	0.1113659
+
+\2-grams:
+-1.113943	<s> computer
+-1.113943	<s> deep
+-0.30103	<s> i
+-2.318063	<s> machine
+-0.5118834	a human
+-0.5118834	a machine
+-0.2108534	am a
+-0.5118834	computer </s>
+-0.5118834	computer is
+-0.5118834	deep </s>
+-0.5118834	deep learning
+-0.2108534	from human
+-1.716003	human </s>
+-0.8129134	i am
+-0.1249387	i like
+-0.5118834	is a
+-0.5118834	is deep
+-1.892095	learning </s>
+-0.6879746	learning is
+-0.2108534	learns from
+-0.6879746	like computer
+-1.892095	like machine
+-2.113943	machine </s>
+-2.113943	machine learning
+-0.9098234	machine learns
+
+\end\
